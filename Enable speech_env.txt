@@ -1,1 +1,6 @@
+*** to create speech_env folder using cmd ***
+python -venv speech_env
+
+*** to activate ***
 speech_env\Scripts\activate.bat
+
